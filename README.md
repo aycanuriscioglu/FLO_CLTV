@@ -44,4 +44,4 @@ Uyarı: Veri kümesini açık kaynak olmadığı için paylaşamayacağımı bel
 
 !!!!!!!!!!!!!!
 
-Uyarı: Veri kümesini açık kaynak olmadığı için paylaşamayacağımı belirtmek isterim.
+Warning: I would like to point out that I cannot share the dataset because it is not open source.
